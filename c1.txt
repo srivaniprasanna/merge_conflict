@@ -1,1 +1,7 @@
+<<<<<<< HEAD
  Working on 5th experiment in Devops
+=======
+AIML
+DS
+IT
+>>>>>>> fb
